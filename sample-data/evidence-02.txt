@@ -1,0 +1,18 @@
+[SYNTHETIC DEMONSTRATION DATA - FOR INVESTIGATION SIMULATION ONLY]
+EVIDENCE ID: EV-002
+SOURCE: Nexus Financial Services Internal Ledger
+RECORD TYPE: Offshore Wire Transfer Record
+DOCUMENT REF: NFS-TX-2026-9921
+
+TRANSACTION DETAILS:
+Transaction ID: NFS-2026-9921
+Execution Date: October 14, 2026
+Originating Account: ACC-88910 (Entity Alias: shadow42)
+Originating Institution: Nexus Financial Services, Zurich Branch
+Destination Account: ACC-33104 (Beneficiary: Dr. Aris Thorne)
+Beneficiary Organization: Apex BioTech Research Affiliate
+Transfer Amount: $55,000 USD
+Transfer Purpose Code: CONSULT-SERVICES-INTL
+Audit Note: Wire transfer notes indicate payment authorization reference attributed to Marcus Baxter, Corporate Director.
+Status: Completed
+Verification Stamp: Certified by Swiss Banking Compliance Officer L. Weber
