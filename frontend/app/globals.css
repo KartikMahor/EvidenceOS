@@ -139,9 +139,5 @@
   aside, header, nav, button {
     display: none !important;
   }
-
-  .print\\:block {
-    display: block !important;
-  }
 }
 
