@@ -11,7 +11,7 @@ from app.services.document_parser import parse_document, DocumentParsingError
 
 router = APIRouter(prefix="/api/investigations/{id}/evidence", tags=["Evidence"])
 
-ALLOWED_EXTENSIONS = {"txt", "pdf"}
+ALLOWED_EXTENSIONS = {"txt", "pdf", "png", "jpg", "jpeg"}
 MAX_BYTES = settings.max_upload_size_mb * 1024 * 1024
 
 
