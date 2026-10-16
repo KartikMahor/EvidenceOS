@@ -1,0 +1,15 @@
+[SYNTHETIC DEMONSTRATION DATA - FOR INVESTIGATION SIMULATION ONLY]
+EVIDENCE ID: EV-003
+ORGANIZATION: Apex BioTech Security Operations Center
+DOCUMENT TYPE: Security Incident Escalation Report (IR-2026-104)
+DATE OF REPORT: October 13, 2026
+
+INCIDENT OVERVIEW:
+At 22:45 UTC on October 12, 2026, anomalous data exfiltration was detected across the internal network gateway at the Geneva Facility.
+
+KEY FINDINGS:
+1. Compromised Account: Internal credentials belonging to Dr. Aris Thorne (email: thorne@apex-bio.com) were used to query the proprietary Chimera Project genetic sequence database.
+2. Transfer Mechanism: Approximately 4.2 GB of proprietary archives were routed through an external proxy endpoint. Forensic analysis traced the staging relay to a known operational persona tagged as shadow42.
+3. Physical Access: Keycard logs demonstrate that Marcus Baxter authorized emergency facility access override for Dr. Aris Thorne at the Geneva Facility on the evening of October 12, 2026.
+4. Escalation: Incident flagged for immediate corporate compliance review and forensic preservation.
+Report Filed By: Elena Rostova, CISO, Apex BioTech
