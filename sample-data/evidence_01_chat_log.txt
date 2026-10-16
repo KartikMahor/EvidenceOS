@@ -1,0 +1,10 @@
+[SYNTHETIC DEMONSTRATION DATA - FOR INVESTIGATION SIMULATION ONLY]
+EVIDENCE ID: EV-001
+SOURCE: Intercepted Encrypted Communication Log
+ORIGIN: Telegram Session Excerpt #7741
+INVESTIGATION: Operation Chimera Leak
+
+[2026-10-12 08:14:22 UTC] shadow42: Dr. Thorne, the Zurich drop is confirmed for October 12, 2026. The initial installment of $45,000 was wired to the escrow account as agreed.
+[2026-10-12 08:16:05 UTC] Dr. Aris Thorne: Understood. The research files from Apex BioTech are packaged and encrypted. Make sure Marcus Baxter does not intercept the transmission channel.
+[2026-10-12 08:17:30 UTC] shadow42: Baxter is preoccupied with the board meeting in Zurich. Contact me on the Swiss backup line +41 22 901 4400 if the server alert triggers.
+[2026-10-12 08:19:12 UTC] Dr. Aris Thorne: Sending sample payload now from thorne@apex-bio.com to the staging relay.

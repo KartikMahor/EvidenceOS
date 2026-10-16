@@ -1,0 +1,22 @@
+[SYNTHETIC DEMONSTRATION DATA - FOR INVESTIGATION SIMULATION ONLY]
+EVIDENCE ID: EV-004
+ORGANIZATION: Swiss Federal Corporate Crime Unit / Internal Inquiries
+DOCUMENT: Witness Deposition & Sworn Transcript
+INTERVIEWEE: Marcus Baxter (Operations Director, Apex BioTech)
+DATE OF INTERVIEW: October 16, 2026
+INTERVIEWING SPECIAL AGENT: Sarah Lin
+LOCATION: Geneva Judicial Police Headquarters
+
+TRANSCRIPT EXCERPT:
+
+Agent Lin: Mr. Baxter, we have an internal wire record indicating an authorization for $55,000 sent to Dr. Aris Thorne on October 14, 2026, bearing your director signature code. Did you authorize this transaction?
+
+Marcus Baxter: Absolutely not. That record is forged or misrepresented. Dr. Thorne approached me on October 11, 2026, claiming an external hacker using the pseudonym shadow42 was blackmailing him and demanding $45,000 for server decryption keys. I categorically rejected corporate payout. I never authorized $55,000, nor did I approve a payment on October 14.
+
+Agent Lin: Did Dr. Thorne provide any contact mechanism for shadow42?
+
+Marcus Baxter: Yes. Thorne said shadow42 insisted on communication via the Swiss mobile number +41 22 901 4400 and an encrypted Telegram gateway. Thorne also warned that shadow42 had accomplices in Zurich.
+
+Agent Lin: What about the after-hours access badge for October 12?
+
+Marcus Baxter: Thorne requested emergency laboratory access claiming a cooling failure in the Chimera bioreactors. I approved his entry badge purely for maintenance. If he exfiltrated data that night to shadow42, he abused my trust.
