@@ -40,7 +40,7 @@ def get_genai_client() -> genai.Client:
     """Returns a google-genai Client initialized with backend settings."""
     if not settings.gemini_api_key or settings.gemini_api_key == "your_api_key_here":
         raise ValueError("GEMINI_API_KEY is not configured. Please set GEMINI_API_KEY in backend/.env")
-    return genai.Client(api_key=settings.gemini_api_key)
+    return genai.Client(api_key=settings.gemini_api_key, http_options=types.HttpOptions(timeout=10000))
 
 
 def run_gemma_extraction(evidence_items: List[Dict[str, str]]) -> Tuple[AIExtractionResult, str, bool]:
